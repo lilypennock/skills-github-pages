@@ -1,4 +1,4 @@
-anything can be quite silly and cute with bows---
-title: Welcome to my blog
+---
+title: welcome to my blog
 ---
 
